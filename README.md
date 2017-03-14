@@ -1,5 +1,5 @@
 # GYST - Get Your Shit Together.
-> "Metodologia" para manter os arquivos de design organizados e todos juntos.
+> Estrutura de pastas para manter os arquivos de design organizados e todos juntos.
 
 Estrutura das pastas:
 ```
